@@ -3,11 +3,15 @@ Mapping Twitter Sentiments
 
 ## Description
 
-This github page contains the code for an interactive application
-created for the STAT-613: Data Science course at [American
-University](https://www.american.edu). The Shiny application is designed
-to interactively visualize Twitter sentiments. Inputs include the number
-of tweets and hashtag to search.
+This Shiny application is designed to interactively visualize Twitter
+sentiments in the USA. Users are able to input the number of tweets and
+a hashtag to search. The app then generates an interactive map showing
+the locations of all the downloaded tweets as well as the overall
+sentiment for each tweet based on the words used. Additionally,
+visualizations are generated to show the most common words with their
+corresponding sentiment and a the distribution of words per tweet. This
+interactive application was created for the STAT-613: Data Science
+course at [American University](https://www.american.edu).
 
 ## R Packages Used
 
