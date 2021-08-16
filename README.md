@@ -9,7 +9,7 @@ a hashtag to search. The app then generates an interactive map showing
 the locations of all the downloaded tweets as well as the overall
 sentiment for each tweet based on the words used. Additionally,
 visualizations are generated to show the most common words with their
-corresponding sentiment and a the distribution of words per tweet. This
+corresponding sentiment and the distribution of words per tweet. This
 interactive application was created for the STAT-613: Data Science
 course at [American University](https://www.american.edu).
 
